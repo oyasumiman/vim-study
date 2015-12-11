@@ -5,8 +5,7 @@ vim study
    
    * xml
    * properties or config
-   * python or ruby and so on.
-
+   * js, python or ruby and so on.
 
   * vimtutor
   * Practical Vim (Edit Text at the Speed of Thought)
