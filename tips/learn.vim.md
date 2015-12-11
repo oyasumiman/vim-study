@@ -10,15 +10,15 @@ find pair of (),[],{}
 
  move cursor to last of line and switch to append mode
 
-# <Ctrl-d> 
+# Ctrl-D
 
  command  support
 
-# <Ctrl-o> 
+# Ctrl-O 
 
  move cursor to last and recurcive.
 
-# <Ctrl-i> 
+# Ctrl-I
 
  move cursor to pre sequence
 
